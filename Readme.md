@@ -6,7 +6,7 @@
 ```bash
 In .env file place your
 JWT KEY as #JWT_KEY 
-and MongoDB URL as 
+and MongoDB URL as #MONGODB_KEY
 ```
 Installing Dependencies
 ```bash
