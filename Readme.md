@@ -74,7 +74,7 @@ Method : ```POST```
 ```bash
 /orders
 ```
-#### Body : ```Product Id``` and ```Quantity``` : By default, quantity is set to 1
+#### Body : ```Product Id``` and ```Quantity```(By default, quantity is set to 1)
 
 
 
